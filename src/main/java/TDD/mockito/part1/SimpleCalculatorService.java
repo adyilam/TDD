@@ -1,4 +1,4 @@
-package TDD.mockito;
+package TDD.mockito.part1;
 
 public interface SimpleCalculatorService {
 

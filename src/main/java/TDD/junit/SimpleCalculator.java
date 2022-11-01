@@ -1,4 +1,4 @@
-package TDD;
+package TDD.junit;
 
 public class SimpleCalculator {
 

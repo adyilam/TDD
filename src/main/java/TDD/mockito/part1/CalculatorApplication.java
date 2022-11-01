@@ -1,4 +1,6 @@
-package TDD.mockito;
+package TDD.mockito.part1;
+
+import TDD.mockito.part1.SimpleCalculatorServiceImpl;
 
 public class CalculatorApplication {
     private SimpleCalculatorServiceImpl simpleCalculatorService;

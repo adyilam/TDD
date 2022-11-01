@@ -1,7 +1,7 @@
 package mockito;
 
-import TDD.mockito.CalculatorApplication;
-import TDD.mockito.SimpleCalculatorServiceImpl;
+import TDD.mockito.part1.CalculatorApplication;
+import TDD.mockito.part1.SimpleCalculatorServiceImpl;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

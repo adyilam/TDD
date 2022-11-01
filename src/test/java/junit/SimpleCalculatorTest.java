@@ -1,4 +1,6 @@
-import TDD.SimpleCalculator;
+package junit;
+
+import TDD.junit.SimpleCalculator;
 import org.junit.Assert;
 import org.junit.Test;
 
