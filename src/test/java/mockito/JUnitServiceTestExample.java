@@ -1,6 +1,6 @@
 package mockito;
 
-import TDD.mockito.TestService;
+import TDD.mockito.part2.TestService;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mock;

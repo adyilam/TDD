@@ -1,4 +1,4 @@
-package TDD.mockito;
+package TDD.mockito.part2;
 
 //production code
 public class TestService {
